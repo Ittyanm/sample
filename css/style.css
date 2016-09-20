@@ -401,6 +401,8 @@ video {
   .main-visual .content-visual p {
     letter-spacing: 0.05rem;
   }
+  .video-container iframe
+  {overflow-y: scroll}
 }
 
 .main-visual .content-visual {
