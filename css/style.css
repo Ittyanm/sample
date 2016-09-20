@@ -401,8 +401,9 @@ video {
   .main-visual .content-visual p {
     letter-spacing: 0.05rem;
   }
-  .video-container iframe
-  {overflow-y: scroll}
+  .video-container iframe {
+    overflow-y: scroll
+  }
 }
 
 .main-visual .content-visual {
@@ -603,6 +604,11 @@ pre {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.form-container{
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 
