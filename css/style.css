@@ -440,12 +440,6 @@ video {
   transition: .2s;
 }
 
-
-/*.main-visual a:first-of-type {
-  margin-right: 20px;
-}
-*/
-
 .main-visual a:hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
@@ -636,6 +630,3 @@ pre {
 .twitter-share-button {
   margin-right: 1.25rem;
 }
-
-
-/*# sourceMappingURL=_datamaps/style.css.map */
