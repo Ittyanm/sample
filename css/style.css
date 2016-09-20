@@ -607,6 +607,7 @@ pre {
 }
 
 .form-container{
+  margin: 0 auto;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
 }
