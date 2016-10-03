@@ -1,0 +1,23 @@
+body{
+  width: 100vw;
+  height: 100vh;
+}
+.content-visual{
+  width: 80%;
+}
+
+.btn.btn-Github {
+  background-color: transparent;
+  color: #fff;
+  border-color: #cff99e;
+  border-size: 2px;
+  border-radius: 0;
+}
+
+.btn.btn-Github:hover {
+  background-color: transparent;
+  color: #fff;
+  border-color: #fff;
+  border-size: 2px;
+  border-radius: 0;
+}
